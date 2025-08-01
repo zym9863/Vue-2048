@@ -1,5 +1,7 @@
 # Vue 2048 游戏
 
+[English](./README_EN.md) | 中文
+
 基于 Vue 3 + TypeScript + Vite 开发的经典 2048 小游戏。
 
 ## 功能特性
